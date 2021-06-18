@@ -1,0 +1,1 @@
+# https://knowyourdata-tfds.withgoogle.com/#dataset=imagenet2012&filters=kyd%2Fimagenet2012%2Flabel:%5Bacorn%20squash%5D(http%3A%2F%2Fwordnet-rdf.princeton.edu%2Fwn30%2F07717410-n)&tab=ITEM&group_by=__none__&select=kyd%2Fimagenet2012%2Flabel&draw=__none__,,&item=ILSVRC2012_val_00007110.JPEG
